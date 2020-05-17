@@ -1,0 +1,6 @@
+Apr 11, 2020 4:37:52 PM com.rapidminer.tools.WrapperLoggingHandler log
+INFO: No filename given for result file, using stdout for logging results!
+Apr 11, 2020 4:37:52 PM com.rapidminer.Process loadInitialData
+INFO: Loading initial data.
+Apr 11, 2020 4:37:52 PM com.rapidminer.Process run
+INFO: Process //Local Repository/naim1 starts
