@@ -1,5 +1,5 @@
 # TS-Naim 
-Tunisian-corpus-sentiment-analysis-NLP-tasks
+Tunisian-corpus-sentiment-analysis-NLP-tasks باللهجة متاعنا 
 I have collected more than 40000 comments and posts from facebook. 
 I labeled about 10000 comments (positive / negative/ neutral) 
 You can use it for your researches ! Enjoy :) 
